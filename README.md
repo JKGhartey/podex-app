@@ -1,4 +1,6 @@
 # podex-app
+This is a podex app to display information about the various pokemon available. With a search bar to allow the user to search through for a particular pokemon and display its information.
+
 Because this is a Pokemon App using the Pokeapi.co, I began by ensuring that I can make requests to the API and fetch the data needed to populate the various Pokemon information. 
 The first stage of my project was to import all the data required into the react app. 
 
